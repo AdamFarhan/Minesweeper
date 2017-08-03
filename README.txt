@@ -1,4 +1,5 @@
-# Minesweeper
+Adam Farhan Minesweeper
+
 //--------------------------------------------------
 Description
 
